@@ -7,8 +7,8 @@ This was my sixth project in the TripleTen Business Intelligence Analytics Progr
 | File Number | Title           | Description                                                                                       |
 |-------------|-----------------|---------------------------------------------------------------------------------------------------|
 | 1           | [README.md](README.md)     | This page contains all the important details about the project, located right after the Table of Contents. |
-| 2           | [Requirements.rft](Requirements.rft) | A basic .txt document listing the project specifications as given by TripleTen.                   |
-| 3           | [Shopify.pdf](Shopify.pdf)   | A .pdf document featuring images of the three-page Power BI Dashboards from my project.           |
+| 2           | [Requirements.rft](Requirements.rft) | A basic .rft document listing the project specifications as given by TripleTen.                   |
+| 3           | [Power Bi.pdf](Power Bi.pdf)   | A .pdf document featuring images of the three-page Power BI Dashboards from my project.           |
 
 
 
