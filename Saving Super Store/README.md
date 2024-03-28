@@ -8,7 +8,7 @@ Tableau Public Share Link: [here](https://public.tableau.com/app/profile/priyank
 
 | File Number | Title                     | Description                                                                                                     |
 |-------------|---------------------------|-----------------------------------------------------------------------------------------------------------------|
-| 1           | [DataSet-SuperStore.xlsx](DataSet-SuperStore.xlsx)  | The original data file provided by TripleTen that was used in this project's analysis.                          |
+| 1           | [Dataset-Superstore-new](Dataset-Superstore-new.xlsx)  | The original data file provided by TripleTen that was used in this project's analysis.                          |
 | 2           | [README.md](README.md)                 | This current page with all relevant information about the project, just past the Table of contents.            |
 | 3           | [Requirements.txt](Requirements.txt)        | A simple .txt file with the provided project requirements as provided by TripleTen.                             |
 
