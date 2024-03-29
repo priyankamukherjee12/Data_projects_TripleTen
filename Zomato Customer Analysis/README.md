@@ -8,7 +8,7 @@ Tableau Public Share Link: [here](https://public.tableau.com/app/profile/priyank
 
 | File Number | Title                   | Description                                                                                                   |
 |-------------|-------------------------|---------------------------------------------------------------------------------------------------------------|
-| 1           | [Zomato Data Orders](Zomato%20Data/orders.csv)  [Zomato Data Users](Zomato%20Data/users.csv)            | The original data file provided by TripleTen that was used in this project's analysis.                        |
+| 1           | [Zomato Data Orders](Zomato%20data/orders.csv)  [Zomato Data Users](Zomato%20data/users.csv)            | The original data file provided by TripleTen that was used in this project's analysis.                        |
 | 2           | [Zomato Customer Analysis Report.pdf](Zomato%20Customer%20Analysis%20Report.pdf)| A .pdf file with the written report for this project.                                                         |
 | 3           | [README.md](README.md)               | This current page with all relevant information about the project, just past the Table of contents.          |
 | 4           | [Requirements.txt](Requirements.txt)        | A simple .txt file with the provided project requirements as provided by TripleTen.                           |
