@@ -2,7 +2,7 @@
 
 This was my fifth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Story Telling.
 
-Tableau Public Share Link: [here](#).
+Tableau Public Share Link: [here](https://public.tableau.com/app/profile/priyanka.mukherjee2482/viz/SuperStoreReturnAnalysis/TotalSalesVsTotalReturn).
 
 ## Table of Contents
 
